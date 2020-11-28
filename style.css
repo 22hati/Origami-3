@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    color:red;
+}
+
+body{
+    background-color: black;
+}
+
+.header{
+    background-color: bisque;
+}
+.item{
+    background-color: orange;
+    display:flex;
+}
+
+.item img{
+    border:2px solid#000000;
+    border-radius:50px;
+}
